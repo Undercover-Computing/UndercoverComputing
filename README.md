@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lewis Jones
+- 👀 This is the Github account for Undercover Computing
+- 📫 Message us on [Facebook](https://www.facebook.com/profile.php?id=61560887027809) or send us an email @ undercover.computing@gmail.com
+- ⚡ Fun fact: Undercover Computing is a New Plymouth based Tech company for all your computing needs.
